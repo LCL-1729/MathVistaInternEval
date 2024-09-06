@@ -20,4 +20,4 @@ After execution, two result files will be generated, for example:
 	•	results/internVL2/scores_InternVL2-1b-mini.json
 	7.	Notes
 For the first run, it’s recommended to use debug mode since the original project contains a lot of exception-handling code. Errors might not be easily noticeable if run directly.
-The OpenAI API call often fails, possibly due to the author’s location. When the API call fails, the original code will attempt to retry. Pay attention to this during execution.
+The OpenAI API call often fails... When the API call fails, the original code will attempt to retry. Pay attention to this during execution.
